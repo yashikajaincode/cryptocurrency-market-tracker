@@ -14,9 +14,6 @@ A real-time cryptocurrency tracking application built with React that provides l
 - Error handling and retry mechanisms
 
 ## Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn
 - A CoinGecko API key (optional for higher rate limits)
 
 ## Installation
