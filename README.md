@@ -18,4 +18,5 @@ A real-time cryptocurrency tracking application built with React that provides l
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/yashikajaincode/cryptocurrency-market-tracker  
+
